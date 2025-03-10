@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right, pink
+    , rgb(227, 122, 122));
+}
+main{
+    background-color: white;
+    box-shadow: 4px 4px 4px rgb(187, 104, 104);
+    padding: 2px;
+    margin: auto;
+    border-radius:4px;
+    width: 600px;
+}
+p{
+    text-align: justify;
+   padding: 3px;
+}
+h1{
+    color: gold;
+    text-align: center;
+    text-shadow: 1px 1px 1px brown;
+}
+h2{
+    color:rosybrown
+}

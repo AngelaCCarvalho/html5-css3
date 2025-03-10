@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('imagens/wallpaper001.jpg');
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(57, 66, 229);
+    text-shadow: 2px 2px 
+    2px rgba(0, 0, 0, 0.522)
+}
+div.fundo{
+    border: 2px solid black ;
+    display: inline-block;
+    width: 261px; 
+    height: 300px; 
+    border-radius: 10px;
+    margin: 5px;
+}
+p{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(229, 161, 35);                     
+    padding: 20px;
+    margin: auto;
+    font-weight: bolder;
+  
+    
+}
+div#q1{
+    background-color: aqua;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.681);
+    width: 250px;
+    height: 300px;
+}
+
+
+div#q2{
+    background-image: linear-gradient(to bottom, lightblue, purple);
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.681);
+}
+div#q3{
+    background-image: url('imagens/pattern001.png');
+    box-shadow: 1px 1px 2px #000000ae;
+}

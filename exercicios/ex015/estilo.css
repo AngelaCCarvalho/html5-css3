@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(221, 221, 166);
+}
+h1{
+    color: darkred;
+    background-color: rgb(208, 159, 33);
+}
+h2{
+    color: darkred;
+}
